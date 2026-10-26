@@ -10,11 +10,8 @@ Repository ini berisi tugas praktikum mengenai pemodelan Machine Learning menggu
 
 
 
-  #  Laporan Analisis Evaluasi Performa Model
 
-Berikut adalah analisis rinci untuk masing-masing metrik evaluasi regresi (**$R^2$ Score**, **MAE**, dan **MSE**) berdasarkan hasil pengujian tiga algoritma (*Lars*, *Linear Regression*, dan *GradientBoostingRegressor*).
-
----
+  #  Laporan Analisis Evaluasi Performa Model.
 
 ### 1. Koefisien Determinasi ($R^2$ Score)
 
@@ -52,11 +49,11 @@ Berikut adalah analisis rinci untuk masing-masing metrik evaluasi regresi (**$R^
 
 ---
 
-### 🏆 Kesimpulan Akhir
+###  Kesimpulan Akhir
 Dari perbandingan ketiga metrik di atas, **`GradientBoostingRegressor`** merupakan algoritma **terbaik** karena unggul di seluruh indikator: memiliki $R^2$ paling mendekati 1, serta MAE dan MSE yang paling rendah (mendekati 0).
 
 ---
 
-### 📚 Daftar Referensi
+###  Daftar Referensi
 1. **Géron, A. (2019).** *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* (2nd ed.). O'Reilly Media. [Tautan Buku](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 2. **James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021).** *An Introduction to Statistical Learning: with Applications in R* (2nd ed.). Springer. [Tautan PDF Resmi](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html)
