@@ -11,7 +11,7 @@ Repository ini berisi tugas praktikum mengenai pemodelan Machine Learning menggu
 
 
 
-  #  Laporan Analisis Evaluasi Performa Model.
+#  Laporan Analisis Evaluasi Performa Model.
 
 ### 1. Koefisien Determinasi ($R^2$ Score)
 
